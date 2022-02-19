@@ -1,2 +1,2 @@
 # katas_LaunchX
-katas de curso Lauch :D 
+katas de curso Launch :D 
